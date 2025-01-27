@@ -1,0 +1,15 @@
+{"intents":
+    [
+        {
+            "tag": "interducing",
+            "patterns": ["interduce yourself", "tell me about your self","I want to know you","info"],
+            "responses": ["My name is gideon , I create by mr AHZ"]
+        },
+        {
+            "tag": "greeting",
+            "patterns": ["Hello","Hey","What's up?","Hi","you good"],
+            "responses": ["Hello sir","Hello","what can I do for you?"]
+
+        }
+    ]
+}
